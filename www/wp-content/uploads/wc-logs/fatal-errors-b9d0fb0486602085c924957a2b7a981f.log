@@ -1,0 +1,471 @@
+2018-02-06T23:47:37+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-07T11:27:28+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-08T07:08:31+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-08T11:27:40+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-09T03:51:17+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-09T12:00:42+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-10T02:24:37+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-10T12:00:33+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-10T23:45:20+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-11T12:16:45+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-12T02:51:55+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-12T11:27:23+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-13T02:07:56+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-13T11:42:22+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-14T01:05:48+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-14T11:30:40+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-15T00:52:12+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-15T11:27:23+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-15T23:43:57+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-16T11:27:27+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-17T08:52:51+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-17T11:35:22+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-18T01:49:02+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-18T13:52:27+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-19T08:07:55+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-20T08:56:49+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-20T11:41:46+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-20T23:50:32+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-25T08:14:44+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-25T13:38:19+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-25T23:59:07+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-26T11:28:11+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-27T00:01:29+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-27T12:34:09+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-02-27T23:34:00+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-02T10:01:31+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-02T11:34:55+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-02T23:31:04+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-03T11:52:55+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-03T23:28:30+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-04T11:34:59+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-04T23:52:01+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-06T05:27:42+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-07T05:25:42+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-07T11:28:05+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-07T23:38:17+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-08T11:41:47+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-08T23:34:15+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-09T11:27:44+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-09T23:37:38+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-10T11:27:21+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-10T23:30:42+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-11T11:51:24+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-11T23:46:10+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-12T11:29:28+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-12T23:35:34+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-13T11:27:31+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-13T23:29:54+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-14T11:27:28+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-14T23:28:36+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-15T12:01:31+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-15T23:29:50+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-16T11:58:40+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-16T23:38:26+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-17T11:28:48+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-17T23:43:05+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-18T11:40:01+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-18T23:46:48+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-19T11:46:51+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-19T23:50:21+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-20T11:29:06+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-20T23:30:42+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-21T11:40:45+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-21T23:32:19+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-22T11:28:56+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-22T23:30:32+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-23T11:29:09+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-23T23:27:41+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-24T11:33:42+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-24T23:48:33+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-25T11:40:16+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-25T23:45:53+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-26T11:34:11+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-26T23:35:59+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-27T11:27:41+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-27T23:51:46+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-28T11:53:15+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-28T23:47:05+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-29T11:28:19+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-29T23:28:49+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-30T11:41:57+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-30T23:43:10+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-31T11:29:19+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-03-31T23:36:13+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-01T11:28:18+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-01T23:33:24+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-02T11:29:54+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-02T23:29:42+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-03T11:36:38+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-03T23:46:26+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-04T11:41:56+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-04T23:42:45+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-05T11:41:02+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-05T23:30:39+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-06T11:27:28+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-06T23:45:11+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-07T11:27:43+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-07T23:41:01+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-08T12:07:13+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-08T23:48:01+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-09T11:27:54+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-09T23:28:00+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-10T11:27:53+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-10T23:30:04+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-11T12:23:50+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-11T23:53:44+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-12T12:31:04+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-13T00:38:27+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-13T11:27:39+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-14T00:24:48+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-14T11:54:05+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-14T23:29:34+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-15T11:45:09+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-15T23:46:07+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-16T11:28:00+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-17T00:07:20+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-17T11:27:19+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-17T23:33:19+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-18T11:27:23+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-19T00:17:25+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-19T11:46:33+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-19T23:49:40+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-20T11:42:24+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-20T23:31:32+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-21T14:22:26+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-21T23:30:21+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-22T12:40:15+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-23T00:31:12+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-23T12:02:05+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-23T23:54:43+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-24T11:31:15+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-24T23:29:42+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-25T12:47:07+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-25T23:35:00+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-26T12:16:33+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-26T23:47:00+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-27T11:38:02+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-27T23:35:02+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-28T11:31:45+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-28T23:28:57+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-29T11:27:59+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-29T23:33:08+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-30T11:32:12+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-04-30T23:56:29+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-01T11:28:30+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-01T23:36:02+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-02T11:50:26+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-02T23:29:40+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-03T11:34:35+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-03T23:34:36+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-04T11:54:17+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-05T01:49:15+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-05T11:28:32+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-06T00:24:03+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-06T11:42:30+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-06T23:39:07+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-07T11:28:11+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-07T23:37:04+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-08T11:37:32+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-08T23:29:04+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-09T11:37:05+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-09T23:44:17+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-10T11:29:41+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-10T23:30:36+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-11T11:27:26+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-11T23:59:09+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-12T11:43:45+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-12T23:57:17+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-13T11:34:33+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-13T23:47:14+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-14T12:05:26+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-14T23:39:05+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-15T12:34:31+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-15T23:35:56+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-16T12:02:26+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-16T23:32:46+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-17T13:14:13+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-17T23:47:23+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-18T11:40:17+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-18T23:29:18+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-19T11:46:36+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-19T23:27:54+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-20T11:34:51+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-20T23:42:16+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-21T11:54:10+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-21T23:50:48+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-22T11:31:37+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-22T23:38:11+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-23T11:28:54+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-23T23:47:55+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-24T11:30:29+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-24T23:38:20+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-25T11:50:35+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-25T23:36:57+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-26T11:41:19+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-26T23:57:19+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-27T11:51:25+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-27T23:30:05+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-28T11:27:56+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-28T23:53:03+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-29T11:35:38+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-29T23:53:57+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-30T12:08:18+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-30T23:28:51+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-31T11:50:26+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-05-31T23:34:55+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-06-01T11:28:15+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-06-01T23:34:48+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-06-02T11:28:14+00:00 CRITICAL Call to undefined function request_filesystem_credentials()
+
+2018-06-03T12:37:13+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /var/www/html/services/www/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /var/www/html/services/www/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/s...', true)
+#1 /var/www/html/services/www/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/s...', true)
+#2 /var/www/html/services/www/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/var/www/html/s...')
+#3 /var/www/html/services/www/wp-includes/update.php(215): find_core_auto_update()
+#4 /var/www/html/services/www/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /var/www/html/services/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /var/www/html/services/www/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#7 /var/w
+
+2018-06-05T12:19:32+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /var/www/html/services/www/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /var/www/html/services/www/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/s...', true)
+#1 /var/www/html/services/www/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/s...', true)
+#2 /var/www/html/services/www/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/var/www/html/s...')
+#3 /var/www/html/services/www/wp-includes/update.php(215): find_core_auto_update()
+#4 /var/www/html/services/www/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /var/www/html/services/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /var/www/html/services/www/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#7 /var/w
+
+2018-06-06T14:36:07+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /var/www/html/services/www/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /var/www/html/services/www/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/s...', true)
+#1 /var/www/html/services/www/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/var/www/html/s...', true)
+#2 /var/www/html/services/www/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/var/www/html/s...')
+#3 /var/www/html/services/www/wp-includes/update.php(215): find_core_auto_update()
+#4 /var/www/html/services/www/wp-includes/class-wp-hook.php(286): wp_version_check()
+#5 /var/www/html/services/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /var/www/html/services/www/wp-includes/plugin.php(515): WP_Hook->do_action(Array)
+#7 /var/w
+

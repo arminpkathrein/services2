@@ -1,0 +1,83 @@
+<VirtualHost *:80>
+    # Adresse email    contacter en cas de problemes
+    ServerAdmin abdouhanne@gmail.com
+    # Nom de domaine avec les www
+    ServerName www.gincomarket.com
+    # Les diff  rents alias du site, g  n  ralement le NDD sans les www
+    ServerAlias gincomarket.com
+       DocumentRoot /home/abdouhanne/www/CommingSoon
+    <Directory />
+        # Des options : ici suivre les liens symboliques
+        Options FollowSymLinks
+        # Autoriser l'override, autrement dit les .htaccess
+        AllowOverride All
+    </Directory>
+
+    <Directory /home/abdouhanne/www/CommingSoon>
+        # Encore des options : multiviews peut   tre pratique
+        # Si on essaye d'acc  der    site.com/index
+        # Et que index n'existe pas, le serveur va rechercher index.*
+        # Autrement dit : index.php, index.html etc...
+        Options FollowSymLinks MultiViews
+        # Autorise les htaccess
+        AllowOverride All
+        Order allow,deny
+        allow from all
+    </Directory>
+
+    # Log pour les erreurs
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    LogLevel warn
+    # Log des connexion au site
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+
+</VirtualHost>
+
+<IfModule mod_ssl.c>
+<VirtualHost *:443>
+#   SuexecUserGroup cfpstat cfpstat
+    # La o   sont stock   les donn  es du site
+    DocumentRoot /home/abdouhanne/www/CommingSoon
+    <Directory />
+        # Des options : ici suivre les liens symboliques
+        Options FollowSymLinks
+        # Autoriser l'override, autrement dit les .htaccess
+        AllowOverride All
+    </Directory>
+
+    <Directory /home/abdouhanne/www/CommingSoon>
+        # Encore des options : multiviews peut   tre pratique
+        # Si on essaye d'acc  der    site.com/index
+        # Et que index n'existe pas, le serveur va rechercher index.*
+        # Autrement dit : index.php, index.html etc...
+        Options FollowSymLinks MultiViews
+        # Autorise les htaccess
+        AllowOverride All
+        Order allow,deny
+        allow from all
+    </Directory>
+
+    # Log pour les erreurs
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    LogLevel warn
+    # Log des connexion au site
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+    SSLEngine on
+#    SSLCertificateFile /etc/ssl/certs/abdouhanne-com.crt
+       SSLCertificateFile /etc/ssl/certs/gincomarket.pem
+#       SSLCertificateKeyFile /etc/ssl/private/mailserver.pem
+#       SSLCertificateFile /etc/ssl/certs/cfp-stat-com.cer
+#       SSLCACertificateFile /etc/ssl/certs/GeoTrustGlobalCA.cer
+#        SSLCertificateFile /etc/ssl/certs/cfp.csr
+        SSLCertificateKeyFile /etc/ssl/private/ginco.key 
+
+
+    BrowserMatch "MSIE [2-6]" \
+    nokeepalive ssl-unclean-shutdown \
+    downgrade-1.0 force-response-1.0
+    BrowserMatch "MSIE [17-9]" ssl-unclean-shutdown
+
+</VirtualHost>
+</IfModule>

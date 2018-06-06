@@ -1,0 +1,456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyListing Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-29 07:12+0000\n"
+"PO-Revision-Date: 2017-10-29 09:04+0100\n"
+"Last-Translator: christian@weinstadt.at\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#: includes/taxonomies.php:5
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: includes/taxonomies.php:6
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr "Schlagwort"
+
+#: includes/taxonomies.php:7
+msgid "Search Tags"
+msgstr "Schlagwörter suchen"
+
+#: includes/taxonomies.php:8
+msgid "Popular Tags"
+msgstr "Beliebte Schlagwörter"
+
+#: includes/taxonomies.php:9
+msgid "All Tags"
+msgstr "Alle Schlagwörter"
+
+#: includes/taxonomies.php:12
+msgid "Edit Tag"
+msgstr "Schlagwort bearbeiten"
+
+#: includes/taxonomies.php:13
+msgid "Update Tag"
+msgstr "Schlagwort aktualisieren"
+
+#: includes/taxonomies.php:14
+msgid "Add New Tag"
+msgstr "Neues Schlagwort hinzufügen"
+
+#: includes/taxonomies.php:15
+msgid "New Tag Name"
+msgstr "Neuer Schlagwort Name"
+
+#: includes/taxonomies.php:16
+msgid "Separate Tags with commas"
+msgstr "Schlagworte mit Kommas trennen"
+
+#: includes/taxonomies.php:17
+msgid "Add or remove Tags"
+msgstr "Schlagworte hinzufügen oder entfernen"
+
+#: includes/taxonomies.php:18
+msgid "Choose from the most used Tags"
+msgstr "Aus den meistverwendeten Schlagwörtern auswählen"
+
+#: includes/taxonomies.php:19
+msgid "No Tags found."
+msgstr "Keine Schlagwörter gefunden."
+
+#: includes/taxonomies.php:20
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: includes/post-types.php:6
+msgctxt "post type general name"
+msgid "Listing Types"
+msgstr "Inseratstypen"
+
+#: includes/post-types.php:7
+msgctxt "post type singular name"
+msgid "Listing Type"
+msgstr "Inserat Typ"
+
+#: includes/post-types.php:8
+msgctxt "admin menu"
+msgid "Listing Types"
+msgstr "Inseratstypen"
+
+#: includes/post-types.php:9
+msgctxt "add new on admin bar"
+msgid "Listing Type"
+msgstr "Inserat Typ"
+
+#: includes/post-types.php:10
+msgctxt "Listing Type"
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: includes/post-types.php:11
+msgid "Add New Listing Type"
+msgstr "Neuen Inserat Typ erstellen"
+
+#: includes/post-types.php:12
+msgid "New Listing Type"
+msgstr "Neuen Inserats Typ hinzufügen"
+
+#: includes/post-types.php:13
+msgid "Edit Listing Type"
+msgstr "Inserat Typ bearbeiten"
+
+#: includes/post-types.php:14
+msgid "View Listing Type"
+msgstr "Inserats Typ anzeigen"
+
+#: includes/post-types.php:15
+msgid "Listing Types"
+msgstr "Inseratstypen"
+
+#: includes/post-types.php:16
+msgid "Search Listing Types"
+msgstr "Inserats Typen durchsuchen"
+
+#: includes/post-types.php:17
+msgid "Parent Listing Types:"
+msgstr "Eltern-Inserat Typen:"
+
+#: includes/post-types.php:18
+msgid "No Listing Types found."
+msgstr "Keine Inserat Typen gefunden."
+
+#: includes/post-types.php:19
+msgid "No Listing Types found in Trash."
+msgstr "Keine Inserat Typen im Papierkorb gefunden."
+
+#: includes/post-types.php:24
+msgid ""
+"Create custom listing types to enhance the directory theme experience for "
+"listings of different purposes."
+msgstr ""
+"Erstelle benutzerdefinierte Inserat Typen, um die Benutzererfahrung zu "
+"verbessern."
+
+#: includes/post-types.php:42
+msgctxt "post type general name"
+msgid "Reports"
+msgstr "Meldungen"
+
+#: includes/post-types.php:43
+msgctxt "post type singular name"
+msgid "Report"
+msgstr "Meldung"
+
+#: includes/post-types.php:44
+msgctxt "admin menu"
+msgid "Reports"
+msgstr "Meldungen"
+
+#: includes/post-types.php:45
+msgctxt "add new on admin bar"
+msgid "Report"
+msgstr "Meldung"
+
+#: includes/post-types.php:46
+msgctxt "Report"
+msgid "Add New"
+msgstr "Neue Meldung erstellen"
+
+#: includes/post-types.php:47
+msgid "Add New Report"
+msgstr "Neue Meldung erstellen"
+
+#: includes/post-types.php:48
+msgid "New Report"
+msgstr "Neue Meldung"
+
+#: includes/post-types.php:49
+msgid "Edit Report"
+msgstr "Meldung bearbeiten"
+
+#: includes/post-types.php:50
+msgid "View Report"
+msgstr "Meldung anzeigen"
+
+#: includes/post-types.php:51
+msgid "Reports"
+msgstr "Meldungen"
+
+#: includes/post-types.php:52
+msgid "Search Reports"
+msgstr "Meldungen durchsuchen"
+
+#: includes/post-types.php:53
+msgid "Parent Report:"
+msgstr "Eltern-Meldung:"
+
+#: includes/post-types.php:54
+msgid "No Reports found."
+msgstr "Keine Meldungen gefunden."
+
+#: includes/post-types.php:55
+msgid "No Reports found in Trash."
+msgstr "Keine Meldungen im Papierkorb gefunden."
+
+#: includes/post-types.php:60
+msgid "Allow users to report listings."
+msgstr "Benutzern erlauben Einträge zu melden."
+
+#: shortcodes/button.php:22
+msgid "Button"
+msgstr "Button"
+
+#: shortcodes/button.php:23
+msgid "Generate a button."
+msgstr "Einen Button erstellen."
+
+#: shortcodes/button.php:43 shortcodes/format.php:100
+msgid "Content"
+msgstr "Inhalt"
+
+#: shortcodes/button.php:48
+msgid "Link to (href)"
+msgstr "Link zu (href)"
+
+#: shortcodes/button.php:53
+msgid "Style"
+msgstr "Stil"
+
+#: shortcodes/button.php:65
+msgid "Width"
+msgstr "Breite"
+
+#: shortcodes/button.php:67
+msgid "Auto"
+msgstr "Automatisch"
+
+#: shortcodes/button.php:68
+msgid "Full Width"
+msgstr "Gesamte Breite"
+
+#: shortcodes/button.php:73
+msgid "Size"
+msgstr "Größe"
+
+#: shortcodes/button.php:75
+msgid "Normal"
+msgstr "Normal"
+
+#: shortcodes/button.php:76
+msgid "Medium"
+msgstr "Mittel"
+
+#: shortcodes/button.php:77
+msgid "Small"
+msgstr "Klein"
+
+#: shortcodes/button.php:82
+msgid "Animated"
+msgstr "Animiert"
+
+#: shortcodes/button.php:84 shortcodes/search-form.php:83
+msgid "Yes"
+msgstr "Ja"
+
+#: shortcodes/button.php:85 shortcodes/search-form.php:84
+msgid "No"
+msgstr "Nein"
+
+#: shortcodes/search-form.php:24
+msgid "Search Form"
+msgstr "Suchformular"
+
+#: shortcodes/search-form.php:25
+msgid "A search form widget suited for featured sections."
+msgstr "Suchformular passend für vorgestellte Abschnitte."
+
+#: shortcodes/search-form.php:47
+msgid "Listing Type(s)"
+msgstr "Inserat Typ(en)"
+
+#: shortcodes/search-form.php:56
+msgid "Layout"
+msgstr "Layout"
+
+#: shortcodes/search-form.php:58
+msgid "Wide"
+msgstr "Breit"
+
+#: shortcodes/search-form.php:59
+msgid "Tall"
+msgstr "Hoch"
+
+#: shortcodes/search-form.php:64
+msgid "Tab Style"
+msgstr "Tabstil"
+
+#: shortcodes/search-form.php:66
+msgid "Light"
+msgstr "Hell"
+
+#: shortcodes/search-form.php:67
+msgid "Dark"
+msgstr "Dunkel"
+
+#: shortcodes/search-form.php:72 shortcodes/categories.php:62
+msgid "Align"
+msgstr "Ausrichtung"
+
+#: shortcodes/search-form.php:74 shortcodes/categories.php:64
+msgid "Left"
+msgstr "Links"
+
+#: shortcodes/search-form.php:75 shortcodes/categories.php:65
+msgid "Center"
+msgstr "Mitte"
+
+#: shortcodes/search-form.php:76 shortcodes/categories.php:66
+msgid "Right"
+msgstr "Rechts"
+
+#: shortcodes/search-form.php:81
+msgid "Box Shadow?"
+msgstr "Boxschatten?"
+
+#: shortcodes/search-form.php:89
+msgid "Search Page ID"
+msgstr "Suchseiten ID"
+
+#: shortcodes/search-form.php:89
+msgid "Leave blank to use the main explore page."
+msgstr "Leer lassen, um die Hauptsuchseite zu verwenden."
+
+#: shortcodes/format.php:27
+msgid "Format"
+msgstr "Format"
+
+#: shortcodes/format.php:28
+msgid "Format a piece of text to be displayed in various ways."
+msgstr ""
+"Einen Textschnippsel formatieren, welcher auf verschiedene Arten angezeigt "
+"werden kann."
+
+#: shortcodes/format.php:91
+msgid "Type"
+msgstr "Art"
+
+#: shortcodes/format.php:93
+msgid "Date/Time"
+msgstr "Datum/Uhrzeit"
+
+#: shortcodes/format.php:94
+msgid "Price"
+msgstr "Preis"
+
+#: shortcodes/format.php:95
+msgid "Text Gradient"
+msgstr "Textverlauf"
+
+#: shortcodes/format.php:105
+msgid "Date Format"
+msgstr "Datumsformat"
+
+#: shortcodes/format.php:113
+msgid "Include the HTML markup?"
+msgstr "HTML-Markup übernehmen?"
+
+#: shortcodes/format.php:121
+msgid "Choose Gradient"
+msgstr "Verlauf auswählen"
+
+#: shortcodes/format.php:132
+msgid "Prefix"
+msgstr "Prefix"
+
+#: shortcodes/format.php:137
+msgid "Postfix"
+msgstr "Postfix"
+
+#: shortcodes/icon.php:17
+msgid "Icon"
+msgstr "Icon"
+
+#: shortcodes/icon.php:18
+msgid "Select an icon to include in your content."
+msgstr "Wähle ein Icon für deinen Inhalt aus."
+
+#: shortcodes/icon.php:35
+msgid "Select Icon"
+msgstr "Icon auswählen"
+
+#: shortcodes/categories.php:21
+msgid "Listing Categories"
+msgstr "Inserat Kategorien"
+
+#: shortcodes/categories.php:22
+msgid "A list of categories widget suited for featured sections."
+msgstr "Liste von Kategorien passend für vorgestellte Abschnitte."
+
+#: shortcodes/categories.php:45
+msgid "Skin"
+msgstr "Skin"
+
+#: shortcodes/categories.php:47
+msgid "Default"
+msgstr "Standard"
+
+#: shortcodes/categories.php:48
+msgid "transparent"
+msgstr "Transparent"
+
+#: shortcodes/categories.php:53
+msgid "Categories to show"
+msgstr "Angezeigte Kategorien"
+
+#: widgets/latest-posts.php:14
+msgid "27 > Latest Posts"
+msgstr "27 > Letzte Posts"
+
+#: widgets/latest-posts.php:54
+msgid "Posted in"
+msgstr "Gepostet in"
+
+#: widgets/latest-posts.php:75 widgets/contact-form.php:44
+msgid "New title"
+msgstr "Neuer Titel"
+
+#: widgets/latest-posts.php:78 widgets/contact-form.php:49
+msgid "Title:"
+msgstr "Titel:"
+
+#: widgets/contact-form.php:14
+msgid "27 > Contact Form"
+msgstr "27 > Kontaktformular"
+
+#: widgets/contact-form.php:61
+msgid "Contact Form ID:"
+msgstr "Kontaktformular-ID:"
+
+#. Name of the plugin
+msgid "MyListing Addons"
+msgstr "MyListing Addons"
+
+#. Description of the plugin
+msgid ""
+"This plugin provides some of the functionality for the MyListing theme from "
+"27collective."
+msgstr ""
+"Dieses Plugin stellt eine Teilfunktionalität für das MyListing Theme von "
+"27collective zu Verfügung."
+
+#. Author of the plugin
+msgid "27collective"
+msgstr "27collective"
+
+#. Author URI of the plugin
+msgid "http://27collective.net/"
+msgstr "http://27collective.net/"
